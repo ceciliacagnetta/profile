@@ -54,13 +54,13 @@ body {
   margin-bottom: 40px;
 }
 
-.img-circle {
+.img {
   transition: all 0.4s;
-  height: 200px;
+  height: 300px;
   width: 200px;
 }
 
-.img-circle:hover {
+.img:hover {
   transition: all 0.4s;
   height: 220px;
   width: 220px;
